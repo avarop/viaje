@@ -71,16 +71,7 @@ h4 {
     color: white;
     font-size: 1.5rem;
     font-weight: 500;
-    margin: 30px;
-}
-
-.col1,
-.col2,
-.col3 {
-    text-align: justify;
-    margin-top: 18px;
-    margin-left: 18px;
-    margin-bottom: 68px;
+    margin-top: 50px;
 }
 
 .icon1 {
@@ -203,23 +194,7 @@ div div div ul li {
     h3 {
         margin-top: 0;
     }
-    .col1 {
-        text-align: justify;
-        margin: 30px;
-    }
-    .col3 {
-        text-align: justify;
-        margin: 30px;
-    }
-    .col2 {
-        text-align: justify;
-        margin: 30px;
-    }
     .carousel-indicators li {
-        display: none;
-    }
-    figcaption,
-    .gone {
         display: none;
     }
 }
